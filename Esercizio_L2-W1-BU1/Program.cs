@@ -8,5 +8,3 @@ Console.WriteLine("Età: " + persona1.GetEta());
 Console.WriteLine("-----------------");
 Console.WriteLine("Dettagli Completi: ");
 Console.WriteLine(persona1.GetDettagli());
-
-Console.ReadLine(); // Per mantenere aperta la console
